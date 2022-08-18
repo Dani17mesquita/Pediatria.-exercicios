@@ -1,0 +1,54 @@
+body{
+      padding: 2;
+      font-family: Arial, Helvetica, sans-serif;
+      
+
+}
+li{
+
+    font-size: large;
+}
+
+h2{
+    font-size: 20px;
+    color: rgb(223, 12, 223);
+    
+}
+P{
+    text-align:justify;
+
+}
+nav ul li a{
+    font-size: 18px;
+    line-height-step:35px ;
+    color: darkslateblue;
+    font-weight: bold;
+
+}
+nav ul{
+    list-style-type:none;
+
+}
+nav{
+    float: right;
+    padding: 20px 7px 0 0;
+}
+nav ul li{
+    float:left ;
+    padding-left: 50px;
+}
+nav ul li a:focus{
+    text-decoration: nome;
+    color:deeppink;
+
+}
+nav ul li a:hover{
+        text-decoration:none ;
+        color: deeppink;
+}
+    img{
+         float:right ;
+         padding: 3px 0 0 22px;
+    }
+
+
